@@ -1,0 +1,9 @@
+Problem Statement
+Given an integer N, your task is to take input of the given integer and print it.
+Input
+The input contains a single integer N.
+
+Constraints:-
+1 <= N <= 100
+Output
+Print the integer N.
