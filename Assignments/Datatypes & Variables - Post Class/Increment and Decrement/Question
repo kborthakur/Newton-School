@@ -1,0 +1,9 @@
+Problem Statement
+You must be familiar with various types of operators. One of the most commonly used operators in other languages is increment and decrement operators. Given two numbers X and Y. Your task is to print the value of X decremented by 1 and value of Y after incrementing it by 1.
+Input
+The first line of the input contains two integers X and Y.
+
+Constraints:
+1 <= X, Y <= 10000
+Output
+You need to perform the task as mentioned in the question, and finally, print the result separated by a space.
